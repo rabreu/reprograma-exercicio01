@@ -4,9 +4,9 @@
 
 ### HTML
 
-<img src="https://image.flaticon.com/icons/png/512/29/29515.png" width="150">
-
 HTML (Linguagem de Marcação de HiperTexto) é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web.
+
+<p align="center"><img src="https://image.flaticon.com/icons/png/512/29/29515.png" width="150"></p>
 
 O HTML usa "Marcação" para anotar texto, imagem e outros conteúdos para exibição em um navegador da Web.
 
@@ -29,9 +29,9 @@ Fonte: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 
 ### CSS
 
-<img src="https://image.flaticon.com/icons/png/512/29/29088.png" width="150">
-
 CSS (Cascading Style Sheets) é uma linguagem declarativa que controla a apresentação visual de páginas web em um navegador. O navegador aplica as declarações de estilo CSS aos elementos selecionados para exibi-los apropriadamente. Uma declaração de estilo contem as propriedades e seus valores, que determinam a aparência de uma página web.
+
+<p align="center"><img src="https://image.flaticon.com/icons/png/512/29/29088.png" width="150"></p>
 
 CSS é uma das três principais tecnologias Web, junto com HTML e JavaScript. CSS normalmente estiliza Elementos HTML, mas também pode ser usada com outras linguagens de marcação como SVG ou XML.
 
