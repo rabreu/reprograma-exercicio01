@@ -1,4 +1,4 @@
-# {reprograma} - Exerccio 01
+# {reprograma} - Exercício 01
 
 ## HTML e CSS
 
